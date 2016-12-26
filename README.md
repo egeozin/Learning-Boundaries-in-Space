@@ -2,6 +2,12 @@
 Ege Ozgirin egeozin@mit.edu
 Cagri Hakan Zaman zaman@mit.edu
 
+	This project is designed with:
+	
+	**Python** + 
+	**SciPy** stack for vector computation + 
+	**Keras** for Convolutional Neural Network implementation + 
+	MORSE library in Python/Blender for generating robot and environment simulation.
 
 ## Learning Boundaries in Space Using Convolutional Neural Networks
 
@@ -9,3 +15,8 @@ Recent discoveries in neuroscience suggest that a variety of cell groups in the 
 
 
 <p align="center"><img src="https://github.mit.edu/egeozin/Learning-Boundaries-in-Space/blob/master/final_CNN.jpg" width="600"></p>
+
+
+### License 
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
