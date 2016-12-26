@@ -9,3 +9,5 @@ Recent discoveries in neuroscience suggest that a variety of cell groups in the 
 
 ![alt tag](https://github.mit.edu/egeozin/Learning-Boundaries-in-Space/blob/master/final_CNN.jpg)
 
+<img src="https://github.mit.edu/egeozin/Learning-Boundaries-in-Space/blob/master/final_CNN.jpg" width="300">
+
