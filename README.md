@@ -4,9 +4,9 @@ Cagri Hakan Zaman zaman@mit.edu
 
 	This project is designed with:
 	
-	**Python** + 
-	**SciPy** stack for vector computation + 
-	**Keras** for Convolutional Neural Network implementation + 
+	Python as framework + 
+	SciPy stack for vector computation + 
+	Keras for Convolutional Neural Network implementation + 
 	MORSE library in Python/Blender for generating robot and environment simulation.
 
 ## Learning Boundaries in Space Using Convolutional Neural Networks
