@@ -1,6 +1,6 @@
 6.884 Machine Learning Graduate Project
-Ege Ozgirin egeozin at mit.edu
-Cagri Hakan Zaman zaman at mit.edu
+Ege Ozgirin, egeozin at mit.edu
+Cagri Hakan Zaman, zaman at mit.edu
 
 	This project is designed with:
 	
