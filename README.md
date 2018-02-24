@@ -1,4 +1,4 @@
-6.884 Applied Machine Learning Class, Final Project.
+6.884 Applied Machine Learning Class, Final Project.<br>
 Ege Ozgirin, Cagri Hakan Zaman
 
 	This project is designed with:
