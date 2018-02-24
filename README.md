@@ -1,6 +1,5 @@
-6.884 Machine Learning Graduate Project
-Ege Ozgirin,
-Cagri Hakan Zaman
+6.884 Applied Machine Learning Class, Final Project.
+Ege Ozgirin, Cagri Hakan Zaman
 
 	This project is designed with:
 	
